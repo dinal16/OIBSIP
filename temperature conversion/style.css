@@ -1,0 +1,28 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');*/
+h1{
+    color:black ;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#temp-form{
+    align-items: center;
+    border: black;
+}
+
+.container{
+    margin-top: 100px;
+}
+
+.card{
+    padding: 8%
+}
+/* Curved border */
+.card,.form-control,.form-select,.input-group-text,.calculateBtn,option{
+    border-radius: 20px;
+    background-color: rgba(239, 247, 239, 0.726);
+}
+
+.calculateBtn{
+    color: #7e1f1f;
+}
